@@ -5,7 +5,7 @@ Project 1
 
 This project demonstrates how we can utilize and apply the utility functions provided by Dr. Mahmoud K. Quweider in
 ImageIo.java and HistogramOps.java. Statistic operations are done via Statistics.java. The operations are tested with the "UTB.jpg" image provided in lab one.
-The project also contains Blur.java that takes in an image and outputs the 
+The project also contains Blur.java that takes in an image and outputs a blurred segment of a specified location. 
 */
 
 /**
